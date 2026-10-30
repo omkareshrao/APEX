@@ -1,0 +1,6 @@
+{
+  "name": "APEX // Motorsport & Racing Apparel Lab",
+  "description": "Circuit-bred heavyweight hoodies inspired by Formula 1, JDM tuner legends, supercars, and track-day monsters. Featuring 480-520 GSM French Terry and authentic team liveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
